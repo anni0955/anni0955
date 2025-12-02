@@ -39,7 +39,7 @@
 ---
 
 ## 📈 GitHub Stats  
-![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anni0955&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anni0955&show_icons=true&count_private=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anni0955&layout=compact&theme=radical)
 
