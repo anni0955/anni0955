@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hey there, I'm Animesh Porwal 👋
 
-<!--
-**anni0955/anni0955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science and Design Student || ML-DL & DSA Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me  
+- 🎓 I am Animesh Porwal, currently a 3rd-year undergraduate in Madhav Institute of Technology and Science studying Computer Science and Design.  
+- 💡 I’m passionate about machine learning, deep learning, neural networks, data structures & algorithms, and open-source.  
+- 🚀 Currently learning: CNN and Open Source Computer Vision.  
+ 
+---
+
+## 🧠 Skills & Tech Stack  
+- Languages: `Python`, `C++`
+- Frameworks & Tools: `TensorFlow`, `Git`, `Scikit-learn`
+- Concepts: `Machine Learning`, `Deep Learning`, `Algorithms & Data Structures`
+
+---
+
+## 💼 Projects & Work (Proof of Work)  
+
+### Placement Predictor using Machine Learning  
+> Engineered a predictive classification model using Ensemble Learning to forecast student placement outcomes based on multi-feature datasets.  
+**Model Used:** `Stacking Classifier`  
+
+### Handwritten Digit Recognition (MNIST Dataset)  
+> Developed a multiclass classification model using the MNIST dataset, integrating PCA for dimensionality reduction and Hyperparameter Tuning for accuracy optimization.  
+**Model Used:** `K Neighbors Classifier`
+
+### House Rent Prediction  
+> Constructed a regression model to estimate house rent prices using input features like City, BHK, Size, Locality, and Furnishing Status.  
+**Model Used:** `Bagging Regressor`
+
+### Heart Disease Prediction  
+> Implemented a binary classification pipeline to detect heart disease risk using features such as age, cholesterol, thalach, and chest pain type.  
+**Model Used:** `Logistic Regression`
+
+---
+
+## 📈 GitHub Stats  
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anni0955&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anni0955&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me  
+- 💬 LinkedIn: https://www.linkedin.com/in/anni0955/  
+- 🐦 Twitter / X: https://x.com/Anni_0955  
+- 📧 Email: animeshporwal0955@gmail.com  
+
+---
