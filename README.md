@@ -43,10 +43,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anni0955&layout=compact&theme=radical)
 
+---
+### 🧠 LeetCode Activity
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Animesh_Porwal?theme=dark&ext=heatmap)
 
-
----
 
 ## 📫 Connect With Me  
 - 💬 LinkedIn: https://www.linkedin.com/in/anni0955/  
