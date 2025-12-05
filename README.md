@@ -43,6 +43,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anni0955&layout=compact&theme=radical)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Animesh_Porwal?theme=dark&ext=heatmap)
+
+
 ---
 
 ## 📫 Connect With Me  
