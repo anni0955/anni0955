@@ -18,23 +18,40 @@
 
 ---
 
-## 💼 Projects & Work (Proof of Work)  
+## 💼 Projects & Work (Proof of Work)
 
-### Placement Predictor using Machine Learning  
+### 🧠 Brain Tumor Detection  
+> Built a Convolutional Neural Network (CNN)-based image classification system to detect brain tumors from MRI scans.  
+**Model Used:** `CNN (Deep Learning)`  
+🔗 **Project Link:** [Brain Tumor Detection](https://github.com/anni0955/Brain-Tumer-Detection-)
+
+---
+
+### 🎓 Placement Predictor using Machine Learning  
 > Engineered a predictive classification model using Ensemble Learning to forecast student placement outcomes based on multi-feature datasets.  
 **Model Used:** `Stacking Classifier`  
+🔗 **Project Link:** [Placement Prediction](https://github.com/anni0955/Placement-Prediction-)
 
-### Handwritten Digit Recognition (MNIST Dataset)  
+---
+
+### ✍️ Handwritten Digit Recognition (MNIST Dataset)  
 > Developed a multiclass classification model using the MNIST dataset, integrating PCA for dimensionality reduction and Hyperparameter Tuning for accuracy optimization.  
-**Model Used:** `K Neighbors Classifier`
+**Model Used:** `K Neighbors Classifier`  
+🔗 **Project Link:** [Handwritten Digits Recognition](https://github.com/anni0955/Hand-Written-Digits-Recognition)
 
-### House Rent Prediction  
+---
+
+### 🏠 House Rent Prediction  
 > Constructed a regression model to estimate house rent prices using input features like City, BHK, Size, Locality, and Furnishing Status.  
-**Model Used:** `Bagging Regressor`
+**Model Used:** `Bagging Regressor`  
+🔗 **Project Link:** [House Rent Prediction](https://github.com/anni0955/House-Rental-Prediction)
 
-### Heart Disease Prediction  
+---
+
+### ❤️ Heart Disease Prediction  
 > Implemented a binary classification pipeline to detect heart disease risk using features such as age, cholesterol, thalach, and chest pain type.  
-**Model Used:** `Logistic Regression`
+**Model Used:** `Logistic Regression`  
+🔗 **Project Link:** [Heart Disease Prediction](https://github.com/anni0955/Heart-Disease-Prediction)
 
 ---
 
