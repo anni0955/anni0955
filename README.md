@@ -38,10 +38,16 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anni0955&show_icons=true&count_private=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anni0955&layout=compact&theme=radical)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=anni0955&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="180px" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anni0955&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="180px" />
+
+</div>
+
 
 ---
 ### 🧠 LeetCode Activity
