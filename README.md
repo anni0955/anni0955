@@ -27,6 +27,13 @@
 
 ---
 
+### 🌿 Cassava Leaf Disease Classification  
+> Implemented a multi-class image classification pipeline to detect cassava leaf diseases using deep learning. Progressed from a custom CNN to transfer learning and fine-tuning with EfficientNetB0 for improved performance and generalization.  
+**Model Used:** `Custom CNN`, `EfficientNetB0 (Transfer Learning & Fine-Tuning)`  
+🔗 **Project Link:** [Cassava Leaf Disease Classification](https://github.com/anni0955/Casava-Leaf-Disease)
+
+---
+
 ### 🎓 Placement Predictor using Machine Learning  
 > Engineered a predictive classification model using Ensemble Learning to forecast student placement outcomes based on multi-feature datasets.  
 **Model Used:** `Stacking Classifier`  
@@ -53,7 +60,7 @@
 **Model Used:** `Logistic Regression`  
 🔗 **Project Link:** [Heart Disease Prediction](https://github.com/anni0955/Heart-Disease-Prediction)
 
----
+
 
 ## 📊 GitHub Stats
 
