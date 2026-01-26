@@ -18,8 +18,14 @@
 
 ---
 
-## 💼 Projects & Work (Proof of Work)
+## 💼 Projects
 
+### 🏬 Real Esate App  
+> Built a web app that will predict property price, gives the idea for property, area and price using analytics module also built a recommendation system that will recommend the society based on location, price and built_up_area similarity. 
+**Model Used:** `Random Forest Regreessor`  
+🔗 **Project Link:** [Live](https://gurgaonrealestate.streamlit.app/)
+
+---
 ### 🧠 Brain Tumor Detection  
 > Built a Convolutional Neural Network (CNN)-based image classification system to detect brain tumors from MRI scans.  
 **Model Used:** `CNN (Deep Learning)`  
@@ -55,7 +61,7 @@
 
 ---
 
-### ❤️ Heart Disease Prediction  
+### 💔 Heart Disease Prediction  
 > Implemented a binary classification pipeline to detect heart disease risk using features such as age, cholesterol, thalach, and chest pain type.  
 **Model Used:** `Logistic Regression`  
 🔗 **Project Link:** [Heart Disease Prediction](https://github.com/anni0955/Heart-Disease-Prediction)
