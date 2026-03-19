@@ -20,10 +20,16 @@
 
 ## 💼 Projects
 
-### 🏬 Real Esate App  
+### 🏬 PropMap: A Real Esate App  
 > Built a web app that will predict property price, gives the idea for property, area and price using analytics module also built a recommendation system that will recommend the society based on location, price and built_up_area similarity. 
 **Model Used:** `Random Forest Regreessor`  
 🔗 **Project Link:** [Live](https://gurgaonrealestate.streamlit.app/)
+
+---
+### 🏬 BitByBite: An End-to-End Food Delivery Time Prediction System 
+> Built an end-to-end Food Delivery Time Prediction system using MLOps practices with MLflow, DVC, and DagsHub for tracking, versioning, and reproducibility. Developed a stacking ensemble with LightGBM and Random Forest as base models and Linear Regression as the meta-learner, achieving an **MAE of 3.07** minutes.
+**Model Used:** `Stacking Ensemble of (Random Forest Regreessor, LightGBM Regreessor and Linear Regression)`  
+🔗 **Project Link:** [BitByBite](https://github.com/anni0955/delivery-time-prediction)
 
 ---
 ### 🧠 Brain Tumor Detection  
