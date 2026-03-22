@@ -20,7 +20,7 @@
 
 ## 💼 Projects
 
-### 🏬 PropMap: A Real Esate App  
+### 🏬 PropMap: A Real Estate App  
 > Built a web app that will predict property price, gives the idea for property, area and price using analytics module also built a recommendation system that will recommend the society based on location, price and built_up_area similarity. 
 **Model Used:** `Random Forest Regreessor`  
 🔗 **Project Link:** [Live](https://gurgaonrealestate.streamlit.app/)
